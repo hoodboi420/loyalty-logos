@@ -1,0 +1,14 @@
+{
+  "name": "loyalty-logos",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Automatic logo URL generator for loyalty programs using Logo.dev API with scoring and validation.",
+  "scripts": {
+    "start": "node src/index.mjs",
+    "check": "node src/index.mjs --dry"
+  },
+  "dependencies": {
+    "fast-csv": "^5.0.1",
+    "string-similarity": "^4.0.4"
+  }
+}
