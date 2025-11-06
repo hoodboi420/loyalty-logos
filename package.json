@@ -5,7 +5,8 @@
   "description": "Automatic logo URL generator for loyalty programs using Logo.dev API with scoring and validation.",
   "scripts": {
     "start": "node src/index.mjs",
-    "check": "node src/index.mjs --dry"
+    "check": "node src/index.mjs --dry",
+    "validate": "node src/validate.mjs"
   },
   "dependencies": {
     "fast-csv": "^5.0.1",
