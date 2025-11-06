@@ -1,0 +1,218 @@
+DISCOVER MILES, DISCOVER MILES, DISCOVER, discover.com, discover.com, High  
+ACCOR LIVE LIMITLESS, ALL, ACCOR, all.accor.com, accor.com, High  
+AEGEAN MILES+BONUS, MILES+BONUS, AEGEAN AIRLINES, aegeanair.com, aegeanair.com, High  
+AER LINGUS AERCLUB, AERCLUB, AER LINGUS, aerlingus.com, aerlingus.com, High  
+AEROMÉXICO CLUB PREMIER, CLUB PREMIER, AEROMÉXICO, clubpremier.com, aeromexico.com, High  
+AIR CANADA AEROPLAN, AEROPLAN, AIR CANADA, aeroplan.com, aircanada.com, High  
+ALASKA AIRLINES MILEAGE PLAN, MILEAGE PLAN, ALASKA AIRLINES, alaskaair.com, alaskaair.com, High  
+ANA MILEAGE CLUB, MILEAGE CLUB, ANA (ALL NIPPON AIRWAYS), ana.co.jp, ana.co.jp, High  
+ALLEGIANT ALLWAYS REWARDS, ALLWAYS REWARDS, ALLEGIANT AIR, allegiantair.com, allegiantair.com, High  
+AMERICAN AIRLINES AADVANTAGE, AADVANTAGE, AMERICAN AIRLINES, aa.com, aa.com, High  
+AMERICAN EXPRESS MEMBERSHIP REWARDS, MEMBERSHIP REWARDS, AMERICAN EXPRESS, americanexpress.com, americanexpress.com, High  
+AMTRAK GUEST REWARDS, GUEST REWARDS, AMTRAK, amtrakguestrewards.com, amtrak.com, High  
+ASIANA AIRLINES ASIANA CLUB, ASIANA CLUB, ASIANA AIRLINES, flyasiana.com, flyasiana.com, High  
+AVIANCA LIFEMILES, LIFEMILES, AVIANCA, lifemiles.com, avianca.com, High  
+IAG AVIOS, AVIOS, IAG LOYALTY, avios.com, iagloyalty.com, High  
+BANK OF AMERICA TRAVEL REWARDS, TRAVEL REWARDS, BANK OF AMERICA, bankofamerica.com, bankofamerica.com, High
+BARCLAYS ARRIVAL, ARRIVAL, BARCLAYS, barclaycardus.com, barclays.com, High
+BEST WESTERN REWARDS, BEST WESTERN REWARDS, BEST WESTERN, bestwesternrewards.com, bestwestern.com, High
+BILT REWARDS, BILT REWARDS, BILT, biltrewards.com, biltrewards.com, High
+BREEZE AIRWAYS BREEZEPOINTS, BREEZEPOINTS, BREEZE AIRWAYS, flybreeze.com, flybreeze.com, High
+BREX REWARDS, BREX REWARDS, BREX, brex.com, brex.com, High
+BRITISH AIRWAYS EXECUTIVE CLUB, EXECUTIVE CLUB, BRITISH AIRWAYS, britishairways.com, britishairways.com, High
+CNB REWARDS, CNB REWARDS, CITY NATIONAL BANK, cnbrewards.com, cnb.com, High
+CAPITAL ONE MILES, CAPITAL ONE MILES, CAPITAL ONE, capitalone.com, capitalone.com, High
+CATHAY PACIFIC ASIA MILES, ASIA MILES, CATHAY PACIFIC, asiamiles.com, cathaypacific.com, High
+CHASE ULTIMATE REWARDS, ULTIMATE REWARDS, CHASE, chase.com, chase.com, High
+CHOICE HOTELS CHOICE PRIVILEGES, CHOICE PRIVILEGES, CHOICE HOTELS, choiceprivileges.com, choicehotels.com, High
+CITI THANKYOU REWARDS, THANKYOU REWARDS, CITI, thankyou.com, citi.com, High
+DELTA AIR LINES SKYMILES, SKYMILES, DELTA AIR LINES, delta.com, delta.com, High
+EMIRATES SKYWARDS, SKYWARDS, EMIRATES, emirates.com, emirates.com, High
+ETIHAD GUEST, ETIHAD GUEST, ETIHAD AIRWAYS, etihadguest.com, etihad.com, High
+FINNAIR PLUS, FINNAIR PLUS, FINNAIR, finnair.com, finnair.com, High
+AIR FRANCE–KLM FLYING BLUE, FLYING BLUE, AIR FRANCE–KLM, flyingblue.com, airfranceklm.com, High
+FRONTIER AIRLINES FRONTIER MILES, FRONTIER MILES, FRONTIER AIRLINES, flyfrontier.com, flyfrontier.com, High
+GARUDA INDONESIA GARUDAMILES, GARUDAMILES, GARUDA INDONESIA, garuda-indonesia.com, garuda-indonesia.com, High
+HAWAIIAN AIRLINES HAWAIIANMILES, HAWAIIANMILES, HAWAIIAN AIRLINES, hawaiianairlines.com, hawaiianairlines.com, High
+HILTON HONORS, HILTON HONORS, HILTON, hiltonhonors.com, hilton.com, High
+IHG ONE REWARDS, IHG ONE REWARDS, IHG HOTELS & RESORTS, ihg.com, ihg.com, High
+IBERIA PLUS, IBERIA PLUS, IBERIA, iberia.com, iberia.com, High
+JAPAN AIRLINES MILEAGE BANK, MILEAGE BANK, JAPAN AIRLINES, jal.co.jp, jal.co.jp, High
+JETBLUE TRUEBLUE, TRUEBLUE, JETBLUE, jetblue.com, jetblue.com, High
+KOREAN AIR SKYPASS, SKYPASS, KOREAN AIR, koreanair.com, koreanair.com, High
+LUFTHANSA MILES & MORE, MILES & MORE, LUFTHANSA, miles-and-more.com, lufthansa.com, High
+MALAYSIA AIRLINES ENRICH, ENRICH, MALAYSIA AIRLINES, malaysiaairlines.com, malaysiaairlines.com, High
+MARRIOTT BONVOY, MARRIOTT BONVOY, MARRIOTT, marriott.com, marriott.com, High
+MERRILL+ POINTS, MERRILL+ POINTS, MERRILL (BANK OF AMERICA), signaturerewards.ml.com, ml.com, Medium
+MESA REWARDS, MESA REWARDS, MESA, mesamember.com, mesamember.com, High
+PENFED PREMIUM TRAVEL REWARDS, PREMIUM TRAVEL REWARDS, PENFED, penfed.org, penfed.org, High
+PREFERRED HOTELS I PREFER, I PREFER, PREFERRED HOTELS & RESORTS, iprefer.com, preferredhotels.com, High
+QANTAS FREQUENT FLYER, FREQUENT FLYER, QANTAS AIRWAYS, qantas.com, qantas.com, High
+QATAR AIRWAYS PRIVILEGE CLUB, PRIVILEGE CLUB, QATAR AIRWAYS, qatarairways.com, qatarairways.com, High
+RADISSON REWARDS, RADISSON REWARDS, RADISSON, radissonhotels.com, radissonhotels.com, High
+SINGAPORE AIRLINES KRISFLYER, KRISFLYER, SINGAPORE AIRLINES, krisflyer.com, singaporeair.com, High
+SONESTA TRAVEL PASS, TRAVEL PASS, SONESTA, sonesta.com, sonesta.com, High
+SOUTHWEST AIRLINES RAPID REWARDS, RAPID REWARDS, SOUTHWEST AIRLINES, southwest.com, southwest.com, High
+SPIRIT AIRLINES FREE SPIRIT, FREE SPIRIT, SPIRIT AIRLINES, spirit.com, spirit.com, High
+TURKISH AIRLINES MILES & SMILES, MILES & SMILES, TURKISH AIRLINES, turkishairlines.com, turkishairlines.com, High
+U.S. BANK FLEXPERKS, FLEXPERKS, U.S. BANK, flexperks.com, usbank.com, Medium
+U.S. BANK ALTITUDE REWARDS, ALTITUDE REWARDS, U.S. BANK, usbankaltituderewards.com, usbank.com, High
+UNITED AIRLINES MILEAGEPLUS, MILEAGEPLUS, UNITED AIRLINES, united.com, united.com, High
+VIRGIN ATLANTIC FLYING CLUB, FLYING CLUB, VIRGIN ATLANTIC, virginatlantic.com, virginatlantic.com, High
+WELLS FARGO REWARDS, WELLS FARGO REWARDS, WELLS FARGO, wellsfargo.com, wellsfargo.com, High
+WORLD OF HYATT, WORLD OF HYATT, HYATT, worldofhyatt.com, hyatt.com, High
+WYNDHAM REWARDS, WYNDHAM REWARDS, WYNDHAM, wyndhamhotels.com, wyndham.com, High
+HERTZ GOLD PLUS REWARDS, GOLD PLUS REWARDS, HERTZ, hertz.com, hertz.com, High
+AVIS PREFERRED, AVIS PREFERRED, AVIS, avis.com, avis.com, High
+GOL AIRLINES SMILES, SMILES, GOL AIRLINES, smiles.com.br, voegol.com.br, High
+HOTELS.COM, HOTELS.COM, HOTELS.COM, hotels.com, hotels.com, High
+LATAM LATAM PASS, LATAM PASS, LATAM AIRLINES, latampass.latam.com, latam.com, High
+AZUL CLUBE AZUL, CLUBE AZUL, AZUL, voeazul.com.br, voeazul.com.br, High
+ENTERPRISE PLUS, ENTERPRISE PLUS, ENTERPRISE RENT-A-CAR, enterprise.com, enterprise.com, High
+CVS PHARMACY EXTRACARE, EXTRACARE, CVS PHARMACY, cvs.com, cvs.com, High
+TAP PORTUGAL MILES&GO, MILES&GO, TAP PORTUGAL, flytap.com, flytap.com, High
+MGM RESORTS MGM REWARDS, MGM REWARDS, MGM RESORTS, mgmresorts.com, mgmresorts.com, High
+OMNI HOTELS SELECT GUEST, SELECT GUEST, OMNI HOTELS, omnihotels.com, omnihotels.com, High
+NORWEGIAN AIR SHUTTLE ASA NORWEGIAN REWARD, NORWEGIAN REWARD, NORWEGIAN AIR SHUTTLE, norwegianreward.com, norwegian.com, High
+OFFICE DEPOT REWARDS, OFFICE DEPOT REWARDS, OFFICE DEPOT, officedepot.com, officedepot.com, High
+VIRGIN AUSTRALIA VELOCITY FREQUENT FLYER, VELOCITY FREQUENT FLYER, VIRGIN AUSTRALIA, velocityfrequentflyer.com, virginaustralia.com, High
+SHANGRI-LA CIRCLE, SHANGRI-LA CIRCLE, SHANGRI-LA, shangri-la.com, shangri-la.com, High
+EVA AIR INFINITY MILEAGELANDS, INFINITY MILEAGELANDS, EVA AIR, evaair.com, evaair.com, High
+STAPLES EASY REWARDS, EASY REWARDS, STAPLES, staples.com, staples.com, High
+TRIP.COM, TRIP.COM, TRIP.COM, trip.com, trip.com, High
+CHEAPOAIR ONE TRAVEL (CLUBMILES, ONE TRAVEL (CLUBMILES), ONETRAVEL / CHEAPOAIR, clubmiles.com, cheapoair.com / onetravel.com, Medium
+WESTJET WESTJET REWARDS, WESTJET REWARDS, WESTJET, westjet.com, westjet.com, High
+SIXT RENT-A-CAR, SIXT RENT-A-CAR, SIXT, sixt.com, sixt.com, High
+EUROSTAR CLUB EUROSTAR, CLUB EUROSTAR, EUROSTAR, eurostar.com, eurostar.com, High
+BLOOMINGDALE'S LOYALLIST REWARDS, LOYALLIST REWARDS, BLOOMINGDALE'S, bloomingdales.com, bloomingdales.com, High
+TESCO CLUBCARD, CLUBCARD, TESCO, tesco.com, tesco.com, High
+COPA AIRLINES CONNECTMILES, CONNECTMILES, COPA AIRLINES, connectmiles.com, copaair.com, High
+THAI AIRWAYS ROYAL ORCHID PLUS, ROYAL ORCHID PLUS, THAI AIRWAYS, thaiairways.com, thaiairways.com, High
+TARGET CIRCLE, TARGET CIRCLE, TARGET, target.com, target.com, High
+MELIÁ MELIÁREWARDS, MELIÁREWARDS, MELIÁ HOTELS INTERNATIONAL, melia.com, melia.com, High
+AIR INDIA MAHARAJA CLUB, MAHARAJA CLUB, AIR INDIA, airindia.com, airindia.com, High
+AIR CHINA PHOENIXMILES, PHOENIXMILES, AIR CHINA, phoenixmiles.com, airchina.com, High
+THE PARKING SPOT THE SPOT CLUB, THE SPOT CLUB, THE PARKING SPOT, theparkingspot.com, theparkingspot.com, High
+PETSMART TREATS REWARDS, TREATS REWARDS, PETSMART, petsmart.com, petsmart.com, High
+VUELING AIRLINES VUELING CLUB, VUELING CLUB, VUELING, vueling.com, vueling.com, High
+SEPHORA BEAUTY INSIDER, BEAUTY INSIDER, SEPHORA, sephora.com, sephora.com, High
+ICELANDAIR SAGA CLUB, SAGA CLUB, ICELANDAIR, icelandair.com, icelandair.com, High
+SUN COUNTRY AIRLINES SUN COUNTRY REWARDS, SUN COUNTRY REWARDS, SUN COUNTRY AIRLINES, suncountry.com, suncountry.com, High
+CHINA AIRLINES DYNASTY FLYER, DYNASTY FLYER, CHINA AIRLINES, china-airlines.com, china-airlines.com, High
+CHINA EASTERN EASTERN MILES, EASTERN MILES, CHINA EASTERN, ceair.com, ceair.com, High
+CHINA SOUTHERN SKY PEARL, SKY PEARL, CHINA SOUTHERN, csair.com, csair.com, High
+BOOTS ADVANTAGE CARD, ADVANTAGE CARD, BOOTS, boots.com, boots.com, High
+IKEA FAMILY LOYALTY CARD, IKEA FAMILY, IKEA, ikea.com, ikea.com, High
+MY EUROPCAR PRIVILEGE, PRIVILEGE, EUROPCAR, europcar.com, europcar.com, High
+DOLLAR RENT A CAR EXPRESS, EXPRESS, DOLLAR RENT A CAR, dollar.com, dollar.com, High
+STASH HOTELS REWARDS, STASH REWARDS, STASH HOTELS, stashrewards.com, stashrewards.com, High
+HAINAN AIRLINES FORTUNE WINGS CLUB, FORTUNE WINGS CLUB, HAINAN AIRLINES, hnair.com, hainanairlines.com, Medium
+EL AL ISRAEL AIRLINES MATMID, MATMID, EL AL, elal.com, elal.com, High
+MACY'S STAR REWARDS, STAR REWARDS, MACY'S, macys.com, macys.com, High
+MILLENNIUM HOTELS MY MILLENNIUM, MY MILLENNIUM, MILLENNIUM HOTELS, millenniumhotels.com, millenniumhotels.com, High
+NORDSTROM THE NORDY CLUB, THE NORDY CLUB, NORDSTROM, nordstrom.com, nordstrom.com, High
+WORLD MARKET REWARDS, WORLD MARKET REWARDS, WORLD MARKET, worldmarket.com, worldmarket.com, High
+ITA AIRWAYS VOLARE, VOLARE, ITA AIRWAYS, ita-airways.com, ita-airways.com, High
+TAJ NEUPASS, EPICURE, THE CHAMBERS, NEUPASS / EPICURE / THE CHAMBERS, TAJ, tajhotels.com, tajhotels.com, Medium
+MAKEMYTRIP, MAKEMYTRIP, MAKEMYTRIP, makemytrip.com, makemytrip.com, High
+NH HOTEL GROUP NH DISCOVERY, NH DISCOVERY, NH HOTEL GROUP, nh-hotels.com, nh-hotels.com, High
+VENETIAN REWARDS, VENETIAN REWARDS, THE VENETIAN, venetianlasvegas.com, venetianlasvegas.com, High
+PHILIPPINE AIRLINES MABUHAY MILES, MABUHAY MILES, PHILIPPINE AIRLINES, mabuhaymiles.com, philippineairlines.com, High
+BANGKOK AIRWAYS FLYERBONUS, FLYERBONUS, BANGKOK AIRWAYS, bangkokair.com, bangkokair.com, High
+VIA RAIL CANADA VIA PRÉFÉRENCE, VIA PRÉFÉRENCE, VIA RAIL CANADA, viarail.ca, viarail.ca, High
+SOUTH AFRICAN AIRWAYS VOYAGER, VOYAGER, SOUTH AFRICAN AIRWAYS, flysaa.com, flysaa.com, High
+ULTA BEAUTY REWARDS, ULTA BEAUTY REWARDS, ULTA BEAUTY, ulta.com, ulta.com, High
+DRURY HOTELS DRURY REWARDS, DRURY REWARDS, DRURY HOTELS, druryhotels.com, druryhotels.com, High
+SCANDIC SCANDIC FRIENDS, SCANDIC FRIENDS, SCANDIC, scandichotels.com, scandichotels.com, High
+RENFE MÁS RENFE, MÁS RENFE, RENFE, renfe.com, renfe.com, High
+SLH INVITED, INVITED, SMALL LUXURY HOTELS OF THE WORLD, slh.com, slh.com, High
+VIETNAM AIRLINES LOTUSMILES, LOTUSMILES, VIETNAM AIRLINES, vietnamairlines.com, vietnamairlines.com, High
+LHW LEADERS CLUB, LEADERS CLUB, THE LEADING HOTELS OF THE WORLD, lhw.com, lhw.com, High
+ETHIOPIAN AIRLINES SHEBAMILES, SHEBAMILES, ETHIOPIAN AIRLINES, ethiopianairlines.com, ethiopianairlines.com, High
+LANGHAM BRILLIANT, BRILLIANT, THE LANGHAM HOTELS & RESORTS, langhamhotels.com, langhamhotels.com, High
+HILTON GRAND VACATIONS CLUB, HILTON GRAND VACATIONS CLUB, HILTON GRAND VACATIONS, hiltongrandvacations.com, hiltongrandvacations.com, High
+FASTPARK & RELAX RELAX FOR REWARDS, RELAX FOR REWARDS, FASTPARK & RELAX, thefastpark.com, thefastpark.com, High
+AIR EUROPA SUMA, SUMA, AIR EUROPA, aireuropa.com, aireuropa.com, High
+OMAN AIR SINDBAD, SINDBAD, OMAN AIR, omanair.com, omanair.com, High
+GULF AIR FALCONFLYER, FALCONFLYER, GULF AIR, gulfair.com, gulfair.com, High
+EGYPTAIR EGYPTAIR PLUS, EGYPTAIR PLUS, EGYPTAIR, egyptair.com, egyptair.com, High
+ROYAL JORDANIAN AIRLINES ROYAL CLUB, ROYAL CLUB, ROYAL JORDANIAN, rj.com, rj.com, High
+RIU RIU CLASS, RIU CLASS, RIU HOTELS & RESORTS, riu.com, riu.com, High
+JUMEIRAH JUMEIRAH ONE, JUMEIRAH ONE, JUMEIRAH HOTELS & RESORTS, jumeirah.com, jumeirah.com, High
+PARK 'N FLY REWARDS, PARK 'N FLY REWARDS, PARK 'N FLY, pnf.com, pnf.com, High
+PEGASUS AIRLINES PEGASUS BOLBOL, PEGASUS BOLBOL, PEGASUS AIRLINES, flypgs.com, flypgs.com, High
+FOX RENT A CAR REWARDS, FOX REWARDS, FOX RENT A CAR, foxrentacar.com, foxrentacar.com, High
+KENYA AIRWAYS ASANTE REWARDS, ASANTE REWARDS, KENYA AIRWAYS, kenya-airways.com, kenya-airways.com, High
+MIDDLE EAST AIRLINES CEDAR MILES, CEDAR MILES, MIDDLE EAST AIRLINES, mea.com.lb, mea.com.lb, High
+STARLUX AIRLINES COSMILE, COSMILE, STARLUX AIRLINES, starlux-airlines.com, starlux-airlines.com, High
+KUWAIT AIRWAYS OASIS CLUB, OASIS CLUB, KUWAIT AIRWAYS, kuwaitairways.com, kuwaitairways.com, High
+AIR TAHITI NUI CLUB TIARE, CLUB TIARE, AIR TAHITI NUI, airtahitinui.com, airtahitinui.com, High
+COAST HOTELS COAST REWARDS, COAST REWARDS, COAST HOTELS, coasthotels.com, coasthotels.com, High
+FIESTA REWARDS, FIESTA REWARDS, POSADAS / FIESTA AMERICANA, fiestarewards.com, posadas.com, Medium
+CARIBBEAN AIRLINES CARIBBEAN MILES, CARIBBEAN MILES, CARIBBEAN AIRLINES, caribbean-airlines.com, caribbean-airlines.com, High
+TRIDENT HOTELS TRIDENT PRIVILEGE, TRIDENT PRIVILEGE, TRIDENT HOTELS, tridenthotels.com, tridenthotels.com, High
+HONG KONG AIRLINES FORTUNE WINGS CLUB, FORTUNE WINGS CLUB, HONG KONG AIRLINES, hnair.com, hongkongairlines.com, Medium
+AIR ASTANA NOMAD CLUB, NOMAD CLUB, AIR ASTANA, airastana.com, airastana.com, High
+PREFLIGHT PARKING FREQUENT PARKER, FREQUENT PARKER, PREFLIGHT PARKING, preflightairportparking.com, preflightairportparking.com, High
+AIR ARABIA AIRREWARDS, AIRREWARDS, AIR ARABIA, airarabia.com, airarabia.com, High
+SJ PRIO, PRIO, SJ, sj.se, sj.se, High
+TRUMP HOTELS TRUMP CARD, TRUMP CARD, TRUMP HOTELS, trumphotels.com, trumphotels.com, High
+THON HOTELS THON+, THON+, THON HOTELS, thonhotels.com, thonhotels.com, High
+CAYMAN AIRWAYS SIR TURTLE REWARDS, SIR TURTLE REWARDS, CAYMAN AIRWAYS, caymanairways.com, caymanairways.com, High
+ACE RENT A CAR, ACE RENT A CAR, ACE RENT A CAR, acerentacar.com, acerentacar.com, High
+XIAMEN AIRLINES EGRET CLUB, EGRET CLUB, XIAMEN AIRLINES, xiamenair.com, xiamenair.com, High
+LEONARDO HOTELS LEONARDO REWARDS, LEONARDO REWARDS, LEONARDO HOTELS, leonardo-hotels.com, leonardo-hotels.com, High
+ROTANA REWARDS, ROTANA REWARDS, ROTANA, rotana.com, rotana.com, High
+FRASERS HOSPITALITY FRASER WORLD, FRASER WORLD, FRASERS HOSPITALITY, frasershospitality.com, frasershospitality.com, High
+WALLYPARK WALLYCLUB, WALLYCLUB, WALLYPARK, wallypark.com, wallypark.com, High
+ASCOTT STAR REWARDS, ASCOTT STAR REWARDS, THE ASCOTT LIMITED, discoverasr.com, discoverasr.com, High
+JEJU AIR J POINT, J POINT, JEJU AIR, jejuair.net, jejuair.net, High
+ELITE HOTELS OF SWEDEN REWARDS, ELITE HOTELS REWARDS, ELITE HOTELS OF SWEDEN, elite.se, elite.se, High
+LEONARDO HOTELS ADVANTAGECLUB, ADVANTAGECLUB, LEONARDO HOTELS, leonardo-hotels.com, leonardo-hotels.com, High
+ITALO ITALO PIÙ, ITALO PIÙ, ITALO, italotreno.it, italotreno.it, High
+WYNN LAS VEGAS WYNN REWARDS, WYNN REWARDS, WYNN LAS VEGAS, wynnlasvegas.com, wynnlasvegas.com, High
+ROYAL BRUNEI AIRLINES ROYAL SKIES, ROYAL SKIES, ROYAL BRUNEI AIRLINES, flyroyalbrunei.com, flyroyalbrunei.com, High
+FIRST HOTELS FIRST MEMBER, FIRST MEMBER, FIRST HOTELS, firsthotels.com, firsthotels.com, High
+AIR MAURITIUS KESTRELFLYER, KESTRELFLYER, AIR MAURITIUS, airmauritius.com, airmauritius.com, High
+PARADORES AMIGOS DE PARADORES, AMIGOS DE PARADORES, PARADORES, paradores.es, paradores.es, High
+AZERBAIJAN AIRLINES AZAL MILES, AZAL MILES, AZERBAIJAN AIRLINES, azal.az, azal.az, High
+BAMBOO AIRWAYS BAMBOO CLUB, BAMBOO CLUB, BAMBOO AIRWAYS, bambooairways.com, bambooairways.com, High
+H10 HOTELS CLUB H10, CLUB H10, H10 HOTELS, h10hotels.com, h10hotels.com, High
+DAN HOTELS E-DAN CLUB, E-DAN CLUB, DAN HOTELS, danhotels.com, danhotels.com, High
+ALAMO DRAFTHOUSE CINEMA ALAMO VICTORY, ALAMO VICTORY, ALAMO DRAFTHOUSE CINEMA, drafthouse.com, drafthouse.com, High
+AIR ALGÉRIE AIR ALGÉRIE PLUS, AIR ALGÉRІЕ PLUS, AIR ALGÉRIE, airalgerie.dz, airalgerie.dz, High
+BRIGHTLINE, BRIGHTLINE, BRIGHTLINE, gobrightline.com, gobrightline.com, High
+NEW OTANI HOTELS NEW OTANI CLUB, NEW OTANI CLUB, NEW OTANI HOTELS, newotani.co.jp, newotani.co.jp, High
+JIN JIANG GROUP J-CLUB, J-CLUB, JIN JIANG GROUP, wehotel.com, jinjianghotels.com, Medium
+CQ HOTELS CQ REWARDS, CQ REWARDS, CLUB QUARTERS HOTELS, clubquarters.com, clubquarters.com, High
+UZBEKISTAN AIRWAYS UZAIRPLUS, UZAIRPLUS, UZBEKISTAN AIRWAYS, uzairways.com, uzairways.com, High
+STEIGENBERGER HOTELS H REWARDS, H REWARDS, DEUTSCHE HOSPITALITY / H REWARDS, hrewards.com, deutschehospitality.com, High
+TUNISAIR FIDELYS, FIDELYS, TUNISAIR, tunisair.com, tunisair.com, High
+MONTCALM HOTELS MYMONTCALM, MYMONTCALM, MONTCALM HOTELS, montcalmcollection.com, montcalmcollection.com, Medium
+RWANDAIR DREAM MILES, DREAM MILES, RWANDAIR, rwandair.com, rwandair.com, High
+AIR PREMIA PREMIA MEMBERS, PREMIA MEMBERS, AIR PREMIA, airpremia.com, airpremia.com, High
+ASKY AIRLINES ASKY CLUB, ASKY CLUB, ASKY AIRLINES, flyasky.com, flyasky.com, High
+VIRGIN AUSTRALIA BUSINESS FLYER, BUSINESS FLYER, VIRGIN AUSTRALIA, virginaustralia.com, virginaustralia.com, High
+PREMIER HOTELS PREMIER CLUB, PREMIER CLUB, PREMIER HOTELS, premier-hotel.com, premier-hotel.com, Medium
+TAAG ANGOLA AIRLINES UMBI UMBI CLUB, UMBI UMBI CLUB, TAAG ANGOLA AIRLINES, taag.com, taag.com, High
+REX AIRLINES REX FLYER, REX FLYER, REX AIRLINES, rex.com.au, rex.com.au, High
+AIR MOLDOVA CLUB, AIR MOLDOVA CLUB, AIR MOLDOVA, airmoldova.md, airmoldova.md, High
+ATLANTIC AIRWAYS SÚLUBONUS, SÚLUBONUS, ATLANTIC AIRWAYS, atlanticairways.com, atlanticairways.com, High
+AIR COTE D'IVOIRE S MILES, S MILES, AIR CÔTE D’IVOIRE, aircotedivoire.com, aircotedivoire.com, High
+AIRBLUE BLUEMILES, BLUEMILES, AIRBLUE, airblue.com, airblue.com, High
+AURIGNY AIR SERVICES FREQUENT FLYER, FREQUENT FLYER, AURIGNY AIR SERVICES, aurigny.com, aurigny.com, High
+PALLADIUM HOTELS PALLADIUM REWARDS, PALLADIUM REWARDS, PALLADIUM HOTEL GROUP, palladiumhotelgroup.com, palladiumhotelgroup.com, High
+DAYTON AIRPORT PARK-N-GO REWARDS, PARK-N-GO REWARDS, DAYTON AIRPORT PARK-N-GO, daytonparking.com, daytonparking.com, Medium
+KALIGO, KALIGO, KALIGO, kaligo.com, kaligo.com, High
+GLORIA HOTELS & RESORTS GLORIAN MEMBER CLUB, GLORIAN MEMBER CLUB, GLORIA HOTELS & RESORTS, gloriahotels.com, gloriahotels.com, High
+FUTURE INNS FUTURE CLUB REWARDS, FUTURE CLUB REWARDS, FUTURE INNS, futureinns.co.uk, futureinns.co.uk, Medium
+SURINAM AIRWAYS LOYAL WINGS, LOYAL WINGS, SURINAM AIRWAYS, flyslm.com, flyslm.com, High
+ROYAL CARIBBEAN CROWN & ANCHOR SOCIETY, CROWN & ANCHOR SOCIETY, ROYAL CARIBBEAN, royalcaribbean.com, royalcaribbean.com, High
+NORWEGIAN CRUISE LINE LATITUDES REWARDS, LATITUDES REWARDS, NORWEGIAN CRUISE LINE, ncl.com, ncl.com, High
+CARNIVAL VIFP CLUB, VIFP CLUB, CARNIVAL, carnival.com, carnival.com, High
+HOLLAND AMERICA LINE MARINER SOCIETY, MARINER SOCIETY, HOLLAND AMERICA LINE, hollandamerica.com, hollandamerica.com, High
+PRINCESS CAPTAIN CIRCLE, CAPTAIN CIRCLE, PRINCESS, princess.com, princess.com, High
+MSC CRUISES VOYAGERS CLUB, VOYAGERS CLUB, MSC CRUISES, msccruises.com, msccruises.com, High
+OCEANIA CRUISES OCEANIA CLUB, OCEANIA CLUB, OCEANIA CRUISES, oceaniacruises.com, oceaniacruises.com, High
+REGENT SEVEN SEAS CRUISES SEVEN SEAS SOCIETY, SEVEN SEAS SOCIETY, REGENT SEVEN SEAS CRUISES, rssc.com, rssc.com, High
+COSTA CRUISES CLUB, COSTA CLUB, COSTA CRUISES, costacruises.com, costacruises.com, High
