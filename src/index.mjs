@@ -3,21 +3,14 @@ import { fileURLToPath } from 'node:url';
 import { readInput, writeOutput } from './parse.mjs';
 import { makeLogoUrl } from './utils.mjs';
 import { scoreDomain } from './score.mjs';
+import { applyOverrides } from './overrides.mjs';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const DRY = process.argv.includes('--dry');
 const INPUT  = path.join(__dirname, '..', 'data', 'programs_cleaned.txt');
-const OUTPUT = path.join(__dirname, '..', 'out', 'logos.csv');
-
-function chooseDomain(programDomain, merchantDomain) {
-  const pd = programDomain?.trim();
-  const md = merchantDomain?.trim();
-  if (pd) return pd;
-  if (md) return md;
-  return '';
-}
+const OUTPUT_BASE = path.join(__dirname, '..', 'out', 'logos');
 
 function computeConfidence(score) {
   if (score >= 70) return 'High';
@@ -29,7 +22,13 @@ async function main() {
   const rows = readInput(INPUT);
 
   const outRows = rows.map(r => {
-    const chosenDomain = chooseDomain(r.programDomain, r.merchantDomain);
+    const chosenDomain = applyOverrides({
+      programDomain: r.programDomain,
+      merchantDomain: r.merchantDomain,
+      program: r.program,
+      merchant: r.merchant
+    });
+
     const logoUrl = chosenDomain ? makeLogoUrl(chosenDomain) : '';
     const score = scoreDomain({
       chosenDomain,
@@ -42,7 +41,9 @@ async function main() {
     const outputConfidence = computeConfidence(score);
     const status = chosenDomain ? 'ok' : 'no_domain';
     const notes = chosenDomain
-      ? (r.programDomain ? 'program' : 'merchant')
+      ? (r.programDomain && chosenDomain === r.programDomain ? 'program'
+         : r.merchantDomain && chosenDomain === r.merchantDomain ? 'merchant'
+         : 'override')
       : 'missing_both';
 
     return {
@@ -62,8 +63,8 @@ async function main() {
     return;
   }
 
-  writeOutput(OUTPUT, outRows);
-  console.log(`✅ Done. Wrote ${outRows.length} rows to ${OUTPUT}`);
+  writeOutput(OUTPUT_BASE, outRows);
+  console.log(`✅ Done. Wrote ${outRows.length} rows to ${OUTPUT_BASE}.{csv,tsv}`);
 }
 
 main().catch(err => {
